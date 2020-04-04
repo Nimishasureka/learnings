@@ -1,7 +1,7 @@
 --- 
 toc: false
 layout: post
-title: People Analytics Week 1
+title: People Analytics-Performance Evaluation Week 1
 categories: [human resources, organizations, coursera, people management]
 ---
 
