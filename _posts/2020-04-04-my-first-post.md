@@ -2,7 +2,7 @@
 toc: false
 layout: post
 title: People Analytics Week 1
-tags: human resources, organizations, coursera, people management
+categories: [human resources, organizations, coursera, people management]
 ---
 
 I am a Human Resources specialist and since the beginning of my career in this profession, spanning for more than half a decade, I have been a People Advisor to various teams and organisations. One stark phenomenon I’ve witnessed in each and every team I’ve worked with, is the lack of proactive behavior from many HR specialists to propose new ideas and bring them to life. The primary reason for this is the fear of rejection. However, if there’s one big learning in my experience, it is this - Only innovation can bring big changes for the improvement of organisations. And it’s upto us to identify new opportunities, create clarity to the leadership, create a plan, demonstrate the potential Return on Investment and make a pitch! So, the right question to ask is, How can we come up with an effective plan for the organisation that will most likely succeed?
