@@ -48,4 +48,4 @@ A parsimonious explanation to the above example could be that there is a little 
 ---
 
 **Regression to the mean:** very brief explanation of this concept is that the extreme events are becoming diluted in the long run but it does not mean that they are evening out.
-If anyone would like to understand this concept, I would recommend a book - _Thinking fast and slow by Daniel Kahneman_.
+if anyone is keen on understanding the idea of 'Regression to the mean', there is an excellent book written by, the none other than, _Daniel Kahneman-Thinking fast and slow by Daniel Kahneman"_.
