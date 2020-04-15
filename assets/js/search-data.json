@@ -14,9 +14,20 @@
 
   
   
+      ,"page0": {
+          "title": "",
+          "content": "The wisdom of crowds - Signal Independence, The Wisdom of the Crowds: this notion has become very common in recent years and it comes from a book authored by James Surowiecki. . The basic insight is - the average of a large number of forecasts reliably outperforms the average individual forecast. . So, the motivating example are the historical county fairs where you might have a large cow, for example, in a pen. And everyone who comes to the fair gets to guess the weight of the cow. Although most people make an incorrect guess, the average of their guesses is remarkably close. This is a fascinating insight. . What if people have talked to each other before making their guesses in the same county fair? . In a county fair, if everyone who walked up to the booth talked with each other before they made their guess, the value of the crowd would greatly diminish. As a result, their guesses can be very close. Therefore, all of these things break down the independence, and decreases the value of adding additional voices to the process. . If systems are designed in such a way that the voices are heard independently, we get closer to the truth. . . Process vs Outcome: . Performance evaluation process vs outcome - let’s talk about how an organization not just cares about what happens but how it happens, how a person goes about their job. . In this context, it does not mean that we become selfless. However, it means that the reward allocation to an employee should not only focus on the end result but also on the means or processes followed to achieve the objectives. . -Let’s understand this with an example from sports: . A few years ago, when Shane Battier was playing for the Houston Rockets, and the Rockets were famously known for using Data Analytics. And Battier was famously a player, who despite not having any flashy skills or stats, he found ways to hang around in the NBA. Teams found him valuable, and he became even more valuable when he went to the Rockets. They started looking at the process, they started coaching him on - here’s something you can do differently to influence and create an impact in the game. If you defend a player, for example, this way you’re gonna decrease the likelihood that he makes the shot. If you play offense this way, if you attack the post in this way, you’re more likely to score. . The above example tells a very interesting bit that we might not make a shot for the team to win but even if we contribute to stop a shot, we’re equally valuable in the team. . Battier believed that he can pursue an inherently uncertain strategy with total certainty. He can devote himself to a process, and disregard the outcome to any given encounter. This is critical, because in basketball, as in everything else, luck plays a role and Battier believes in making his own luck. . The same lesson from Basketball directly translates to the corporate industry as well. There is documented evidence from a large number of firms where re-imagining the employee performance and evaluation has led to positive cultural transformations in organizations and grew employee satisfaction. . This encouraged organisations to change their evaluation from a 100% results-based strategy to a 50-50 result and process based strategy. So they’re evaluating not only what the person does, but their impact on other people. . Organisations now-a-days are starting to care a lot more than just results and numbers :-) .",
+          "url": "https://nimishasureka.github.io/learnings/2020-04-15-week-1-continued-post.html",
+          "relUrl": "/2020-04-15-week-1-continued-post.html",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page1": {
+
+  
+      ,"page2": {
           "title": "About Me",
           "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://nimishasureka.github.io/learnings/about/",
