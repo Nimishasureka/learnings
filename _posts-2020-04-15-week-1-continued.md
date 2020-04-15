@@ -1,4 +1,8 @@
-Title: Week 1 Continued...
+--- 
+toc: false
+layout: post
+title: People Analytics-Performance Evaluation Week 1 Continued 
+categories: [human resources, organizations, coursera, people management]
 
 **Extrapolating from small samples**:
 
@@ -16,7 +20,7 @@ _What are the implications for your organization_?
 
 This is a fundamental issue in performance evaluation, because, often, **performance evaluation is based on small samples**. The smaller the sample is, the more we have to be cautious what kind of inference we draw from it. This is where data plays a big role, and hence we need to look at more historical data sources and larger samples!
 
---
+---
 
 **The wisdom of crowds - Signal Independence**, _The Wisdom of the Crowds_: this notion has become very common in recent years and it comes from a book authored by _James Surowiecki_.
 
@@ -30,7 +34,7 @@ In a county fair, if everyone who walked up to the booth talked with each other 
 
 _If systems are designed in such a way that the voices are heard independently, we get closer to the truth._
 
---
+---
 
 **Process vs Outcome**:
 
