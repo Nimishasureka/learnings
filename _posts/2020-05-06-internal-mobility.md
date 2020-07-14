@@ -1,7 +1,7 @@
 --- 
 toc: false
 layout: post
-title: People Analytics-Performance Evaluation Week 1 continued
+title: People Analytics-Performance Evaluation Week 2 continued
 categories: [human resources, organizations, coursera, people management, internal mobility]
 ---
 
